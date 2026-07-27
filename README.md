@@ -1,4 +1,4 @@
-# CLAUDE.md
+# sadik
 
 # Developer Profile
 
